@@ -18,7 +18,6 @@ params:
     subtitle: Welcome to my blog!
     imageUrl: https://avatars.githubusercontent.com/u/186613628?v=4
 
-    # --- Add this under profileMode ---
     buttons:
       - name: Posts
         url: "posts"
