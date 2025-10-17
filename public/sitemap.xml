@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://opulent-space-waffle-r4px5j959pr9f5vqj-1313.app.github.dev/</loc>
+    <loc>https://ODESPACE_NAME-1313.ITHUB_CODESPACES_PORT_FORWARDING_DOMAIN/</loc>
+    <lastmod>2025-10-17T10:10:50+00:00</lastmod>
   </url><url>
-    <loc>https://opulent-space-waffle-r4px5j959pr9f5vqj-1313.app.github.dev/categories/</loc>
+    <loc>https://ODESPACE_NAME-1313.ITHUB_CODESPACES_PORT_FORWARDING_DOMAIN/posts/my-first-post/</loc>
+    <lastmod>2025-10-17T10:10:50+00:00</lastmod>
   </url><url>
-    <loc>https://opulent-space-waffle-r4px5j959pr9f5vqj-1313.app.github.dev/tags/</loc>
+    <loc>https://ODESPACE_NAME-1313.ITHUB_CODESPACES_PORT_FORWARDING_DOMAIN/posts/</loc>
+    <lastmod>2025-10-17T10:10:50+00:00</lastmod>
+  </url><url>
+    <loc>https://ODESPACE_NAME-1313.ITHUB_CODESPACES_PORT_FORWARDING_DOMAIN/categories/</loc>
+  </url><url>
+    <loc>https://ODESPACE_NAME-1313.ITHUB_CODESPACES_PORT_FORWARDING_DOMAIN/tags/</loc>
   </url>
 </urlset>

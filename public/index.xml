@@ -2,10 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Alexia Petrisor</title>
-    <link>https://opulent-space-waffle-r4px5j959pr9f5vqj-1313.app.github.dev/</link>
+    <link>https://ODESPACE_NAME-1313.ITHUB_CODESPACES_PORT_FORWARDING_DOMAIN/</link>
     <description>Recent content on Alexia Petrisor</description>
     <generator>Hugo -- 0.151.2</generator>
     <language>en-us</language>
-    <atom:link href="https://opulent-space-waffle-r4px5j959pr9f5vqj-1313.app.github.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Oct 2025 10:10:50 +0000</lastBuildDate>
+    <atom:link href="https://ODESPACE_NAME-1313.ITHUB_CODESPACES_PORT_FORWARDING_DOMAIN/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://ODESPACE_NAME-1313.ITHUB_CODESPACES_PORT_FORWARDING_DOMAIN/posts/my-first-post/</link>
+      <pubDate>Fri, 17 Oct 2025 10:10:50 +0000</pubDate>
+      <guid>https://ODESPACE_NAME-1313.ITHUB_CODESPACES_PORT_FORWARDING_DOMAIN/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello, World!&lt;/h2&gt;
+&lt;p&gt;This is my first blog post on my new Hugo site. I built this at OmniOpenCon! During the workshop I learned:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How static site generators work&lt;/li&gt;
+&lt;li&gt;How to use Hugo&lt;/li&gt;
+&lt;li&gt;How to deploy with GitHub Pages&lt;/li&gt;
+&lt;li&gt;How to automate everything with GitHub Actions&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Stay tuned for more posts!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

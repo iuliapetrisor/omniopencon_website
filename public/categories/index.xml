@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Alexia Petrisor</title>
-    <link>https://opulent-space-waffle-r4px5j959pr9f5vqj-1313.app.github.dev/categories/</link>
+    <link>https://ODESPACE_NAME-1313.ITHUB_CODESPACES_PORT_FORWARDING_DOMAIN/categories/</link>
     <description>Recent content in Categories on Alexia Petrisor</description>
     <generator>Hugo -- 0.151.2</generator>
     <language>en-us</language>
-    <atom:link href="https://opulent-space-waffle-r4px5j959pr9f5vqj-1313.app.github.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ODESPACE_NAME-1313.ITHUB_CODESPACES_PORT_FORWARDING_DOMAIN/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
