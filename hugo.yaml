@@ -1,0 +1,19 @@
+baseURL: "https://iuliapetrisor.github.io/omniopencon_website/"
+languageCode: "en-us"
+title: "Alexia Petrisor"
+theme: "PaperMod"
+
+params:
+  socialIcons:
+    - name: GitHub
+      url: https://github.com/iuliapetrisor
+    - name: YouTube
+      url: https://www.youtube.com/@username
+    - name: LinkedIn
+      url: https://linkedin.com/in/username
+
+  profileMode:
+    enabled: true
+    title: Alexia Petrisor
+    subtitle: Welcome to my blog!
+    imageUrl: https://avatars.githubusercontent.com/u/186613628?v=4
